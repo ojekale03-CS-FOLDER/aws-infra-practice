@@ -1,4 +1,4 @@
-# AWS Infrastructure Practice Project
+# AWS Infrastructure Project
 
 A small AWS-style infrastructure built with Terraform, deployed against
 [LocalStack](https://www.localstack.cloud/) (Community edition) for
